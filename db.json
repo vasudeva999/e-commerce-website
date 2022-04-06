@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Charger",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Mac Book Pro",
+      "price": 200000
+    },
+    {
+      "id": 3,
+      "name": "Iphone 13 pro",
+      "price": 95000
+    },
+    {
+      "name": "new product",
+      "price": "123456",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "vasudev",
+      "password": "123"
+    }
+  ]
+}
